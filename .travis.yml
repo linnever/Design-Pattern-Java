@@ -1,9 +1,9 @@
 language: java
 jdk:
-   - oraclejdk7
-   - openjdk6
-   - openjdk7
-notifications:
-  email: false
+  - oraclejdk7
+  - openjdk7
+
 before_install:
  - chmod +x gradlew
+notifications:
+  email: false
