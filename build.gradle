@@ -15,5 +15,5 @@ dependencies {
 sourceSets.test.java.srcDir 'src/main/java'
 
 task wrapper(type: Wrapper) {
-    gradleVersion = '1.8'
+    gradleVersion = '2.0'
 }
