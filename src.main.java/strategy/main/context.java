@@ -1,4 +1,4 @@
-package strategy.main;
+package com.lin.java.strategy.main;
 
 /**
  * Created by never on 12/21/2015.
