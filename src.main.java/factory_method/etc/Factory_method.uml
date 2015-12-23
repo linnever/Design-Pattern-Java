@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="342.0" y="103.0">com.lin.java.factory_mehod.main.OrcWeapon</node>
+    <node x="0.0" y="103.0">com.lin.java.factory_mehod.main.ElfWeapon</node>
+    <node x="0.0" y="0.0">com.lin.java.factory_mehod.main.Weapon</node>
+    <node x="313.875" y="206.0">com.lin.java.factory_mehod.main.OrcBlackSmith</node>
+    <node x="415.5" y="11.5">com.lin.java.factory_mehod.main.WeaponType</node>
+    <node x="227.0" y="114.5">com.lin.java.factory_mehod.main.BlackSmith</node>
+    <node x="122.625" y="206.0">com.lin.java.factory_mehod.main.ElfBlackSmith</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.lin.java.factory_mehod.main.ElfWeapon" target="com.lin.java.factory_mehod.main.Weapon">
+      <point x="-51.75" y="-26.5" />
+      <point x="-51.75" y="26.5" />
+    </edge>
+    <edge source="com.lin.java.factory_mehod.main.ElfBlackSmith" target="com.lin.java.factory_mehod.main.BlackSmith">
+      <point x="27.25" y="-15.0" />
+      <point x="204.375" y="181.0" />
+      <point x="250.75" y="181.0" />
+      <point x="-23.75" y="15.0" />
+    </edge>
+    <edge source="com.lin.java.factory_mehod.main.ElfBlackSmith" target="com.lin.java.factory_mehod.main.ElfWeapon">
+      <point x="-27.25" y="-15.0" />
+      <point x="149.875" y="181.0" />
+      <point x="103.5" y="181.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="com.lin.java.factory_mehod.main.OrcWeapon" target="com.lin.java.factory_mehod.main.WeaponType">
+      <point x="51.75" y="-26.5" />
+      <point x="27.25" y="15.0" />
+    </edge>
+    <edge source="com.lin.java.factory_mehod.main.OrcWeapon" target="com.lin.java.factory_mehod.main.Weapon">
+      <point x="-51.75" y="-26.5" />
+      <point x="393.75" y="73.0" />
+      <point x="155.25" y="73.0" />
+      <point x="51.75" y="26.5" />
+    </edge>
+    <edge source="com.lin.java.factory_mehod.main.OrcBlackSmith" target="com.lin.java.factory_mehod.main.OrcWeapon">
+      <point x="29.0" y="-15.0" />
+      <point x="400.875" y="181.0" />
+      <point x="445.5" y="181.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="com.lin.java.factory_mehod.main.OrcBlackSmith" target="com.lin.java.factory_mehod.main.BlackSmith">
+      <point x="-29.0" y="-15.0" />
+      <point x="342.875" y="181.0" />
+      <point x="298.25" y="181.0" />
+      <point x="23.75" y="15.0" />
+    </edge>
+    <edge source="com.lin.java.factory_mehod.main.ElfWeapon" target="com.lin.java.factory_mehod.main.WeaponType">
+      <point x="51.75" y="-26.5" />
+      <point x="155.25" y="83.0" />
+      <point x="442.75" y="83.0" />
+      <point x="-27.25" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="278.5" y="80.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
