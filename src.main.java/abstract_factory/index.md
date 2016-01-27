@@ -1,7 +1,6 @@
 ---
 layout: pattern
 title: Abstract Factory
-permalink: /patterns/abstract-factory/
 categories: Creational
 
 ---
