@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="219.0" y="0.0">com.lin.java.object_pool.main.Oliphaunt</node>
+    <node x="125.75" y="206.0">com.lin.java.object_pool.main.object_PoolDemo</node>
+    <node x="0.0" y="0.0">com.lin.java.object_pool.main.ObjectPool</node>
+    <node x="135.75" y="126.0">com.lin.java.object_pool.main.OliphauntPool</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.lin.java.object_pool.main.object_PoolDemo" target="com.lin.java.object_pool.main.OliphauntPool">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.lin.java.object_pool.main.OliphauntPool" target="com.lin.java.object_pool.main.ObjectPool">
+      <point x="-28.5" y="-15.0" />
+      <point x="164.25" y="101.0" />
+      <point x="99.5" y="101.0" />
+      <point x="0.0" y="38.0" />
+    </edge>
+    <edge source="com.lin.java.object_pool.main.OliphauntPool" target="com.lin.java.object_pool.main.Oliphaunt">
+      <point x="28.5" y="-15.0" />
+      <point x="221.25" y="101.0" />
+      <point x="286.0" y="101.0" />
+      <point x="0.0" y="38.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="188.5" y="120.5" />
+  <SelectedNodes>
+    <node>com.lin.java.object_pool.main.ObjectPool</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
