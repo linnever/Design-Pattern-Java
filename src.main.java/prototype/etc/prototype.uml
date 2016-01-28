@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="8.0" y="160.0">com.lin.java.prototype.main.prototypeDemo</node>
+    <node x="26.0" y="0.0">com.lin.java.prototype.main.Prototype</node>
+    <node x="0.0" y="80.0">com.lin.java.prototype.main.ConcretePrototype</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.lin.java.prototype.main.prototypeDemo" target="com.lin.java.prototype.main.ConcretePrototype">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.lin.java.prototype.main.ConcretePrototype" target="com.lin.java.prototype.main.Prototype">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="46.5" />
+  <SelectedNodes>
+    <node>com.lin.java.prototype.main.Prototype</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
