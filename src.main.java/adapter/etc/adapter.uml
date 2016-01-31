@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="80.0">com.lin.java.adapter.main.SwapAdapter</node>
+    <node x="116.35" y="183.0">com.lin.java.adapter.main.adpaterDemo</node>
+    <node x="199.6" y="0.0">com.lin.java.adapter.main.HkSocket</node>
+    <node x="12.650000000000006" y="0.0">com.lin.java.adapter.main.ChinaPlug</node>
+    <node x="188.0" y="80.0">com.lin.java.adapter.main.HongkongHotel</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.lin.java.adapter.main.SwapAdapter" target="com.lin.java.adapter.main.HkSocket">
+      <point x="56.0" y="-26.5" />
+      <point x="140.0" y="55.0" />
+      <point x="214.1" y="55.0" />
+      <point x="-29.0" y="15.0" />
+    </edge>
+    <edge source="com.lin.java.adapter.main.adpaterDemo" target="com.lin.java.adapter.main.HongkongHotel">
+      <point x="28.25" y="-15.0" />
+      <point x="201.1" y="158.0" />
+      <point x="270.0" y="158.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="com.lin.java.adapter.main.HongkongHotel" target="com.lin.java.adapter.main.HkSocket">
+      <point x="-41.0" y="-26.5" />
+      <point x="229.0" y="55.0" />
+      <point x="243.1" y="55.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.lin.java.adapter.main.SwapAdapter" target="com.lin.java.adapter.main.ChinaPlug">
+      <point x="-56.0" y="-26.5" />
+      <point x="28.0" y="55.0" />
+      <point x="34.900000000000006" y="55.0" />
+      <point x="-22.25" y="15.0" />
+    </edge>
+    <edge source="com.lin.java.adapter.main.adpaterDemo" target="com.lin.java.adapter.main.SwapAdapter">
+      <point x="-28.25" y="-15.0" />
+      <point x="144.6" y="158.0" />
+      <point x="84.0" y="158.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="213.0" y="80.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
