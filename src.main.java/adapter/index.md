@@ -25,5 +25,5 @@ incompatible interfaces.
 * [java.util.Arrays#asList()](http://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html#asList%28T...%29)
 
 **Credits**
-* [oodesign](http://www.oodesign.com/abstract-factory-pattern.html)
-* [iluwatar](https://github.com/iluwatar/java-design-patterns/tree/master/abstract-factory)
+* [oodesign](http://www.oodesign.com/adapter-pattern.html)
+* [iluwatar](https://github.com/iluwatar/java-design-patterns/tree/master/adapter)
