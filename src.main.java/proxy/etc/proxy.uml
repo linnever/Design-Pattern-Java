@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="70.0" y="74.0">com.lin.java.proxy.main.ProxyDemo</node>
+    <node x="-207.0" y="69.0">com.lin.java.proxy.main.ImageProxy</node>
+    <node x="-396.0" y="66.0">com.lin.java.proxy.main.Image</node>
+    <node x="-229.0" y="-71.0">com.lin.java.proxy.main.HighResolutionImage</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.lin.java.proxy.main.ProxyDemo" target="com.lin.java.proxy.main.ImageProxy">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.lin.java.proxy.main.ImageProxy" target="com.lin.java.proxy.main.HighResolutionImage">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.lin.java.proxy.main.ProxyDemo" target="com.lin.java.proxy.main.HighResolutionImage">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.lin.java.proxy.main.HighResolutionImage" target="com.lin.java.proxy.main.Image">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.lin.java.proxy.main.ImageProxy" target="com.lin.java.proxy.main.Image">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="6.0" y="10.0" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
